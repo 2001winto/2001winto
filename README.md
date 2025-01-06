@@ -9,6 +9,7 @@
 🌟 **Languages & Tools**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+[GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=username)
 <!--
 **2001winto/2001winto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
