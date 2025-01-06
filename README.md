@@ -1,5 +1,14 @@
-## Hi there 👋
+ Hello, I'm Wintus Njuguna 👋
 
+🌟 **About Me**:
+- 🔭 I’m currently working on [Your Project/Skill/Goal].
+- 🌱 I’m learning [Technology/Skill].
+- 💬 Ask me about [Topics/Interests].
+- 📫 Reach me at: [wintusn@gmail.com].
+
+🌟 **Languages & Tools**:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 <!--
 **2001winto/2001winto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
